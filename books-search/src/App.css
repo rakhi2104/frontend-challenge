@@ -1,0 +1,47 @@
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 36px;
+  color: white;
+  padding: 12px;
+}
+
+h4 {
+  font-weight: 300;
+  font-size: 24px;
+}
+
+a,
+a:visited {
+  color: #61dafb;
+}
+
+.dataComp {
+  max-width: 75%;
+  margin: auto;
+  margin-top: 18px;
+}
+
+.dataTable {
+  margin-top: 12px;
+}
+
+.alignCenter {
+  margin: auto;
+  margin-top: 18px;
+}
+
+.syllable {
+  margin-top: 12px;
+}
+
+input:focus {
+  border: 0;
+}
+
+.form-control:focus {
+  border: 0;
+  box-shadow: 0;
+}
